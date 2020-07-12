@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋UGEBLAINE es un ambicioso proyecto de estudio y atencion permanente al desarrollo de la industria blockchain y tecnologias que faciliten una ecologia soberana y sostenible para la especie humana y su entorno ecologico historico.
 
 <!--
 **ugeblaine/UGEBLAINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
